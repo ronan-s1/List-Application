@@ -88,3 +88,15 @@ label.add{
 .modal-footer{
     float: left;
 }
+
+@media screen and (max-width: 900px) {
+    .container{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .container{
+        width: 90%;
+    }
+}
