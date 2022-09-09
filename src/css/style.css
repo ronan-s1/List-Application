@@ -62,3 +62,29 @@ label.add{
 .filtred{
     display: none !important;
 }
+
+.clear-list{
+    color: #f8f9faf0;;
+    border-radius: 100%;
+    display: inline-flex;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, .2);
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border: none;
+}
+
+.clear-list:hover{
+    background-color: rgba(0, 0, 0, .3);
+}
+
+.clear-list i{
+    font-size: 20px;
+}
+
+.modal-footer{
+    float: left;
+}
