@@ -1,4 +1,4 @@
-# List-Application
+# Shopping-List-Application
 
 ## Description
 - This is list application made with PHP with a SQL database.
