@@ -19,6 +19,10 @@
 
 <body>
     
+    <button type="button" class="clear-list position-absolute top-0 end-0" data-bs-toggle="modal" data-bs-target="#my-modal">
+        <i class="fa-solid fa-xmark"></i>
+    </button>
+
     <div class="container">
         <form class="add text-center my-4" action="app/add.php" method="POST">
             <label for="add" class="add text-light">Add to shopping list</label>
@@ -31,10 +35,6 @@
             ?>  
         </ul>
     </div>
-
-    <button type="button" class="clear-list position-absolute bottom-0 start-0" data-bs-toggle="modal" data-bs-target="#my-modal">
-        <i class="fa-solid fa-xmark"></i>
-    </button>
 
     <div class="modal fade" id="my-modal">
         <div class="modal-dialog">
