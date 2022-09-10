@@ -9,6 +9,6 @@
 - Add to list
 - Delete from list
 - Clear list
-- Time stamp of when you added something to the list
+- Time stamp of added items
 
 ![image](https://user-images.githubusercontent.com/85257187/189460334-f1af238a-a685-4ef7-856e-55e4ac352bfd.png)
