@@ -65,9 +65,9 @@ label.add{
 
 .clear-list{
     color: #f8f9faf0;;
-    border-radius: 100%;
+    border-radius: 5px;
     display: inline-flex;
-    padding: 30px;
+    padding: 27px;
     background-color: rgba(0, 0, 0, .2);
     align-items: center;
     justify-content: center;
@@ -82,7 +82,7 @@ label.add{
 }
 
 .clear-list i{
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .modal-footer{
