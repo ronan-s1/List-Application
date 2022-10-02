@@ -1,7 +1,7 @@
 # List-Application
 
 ## Description
-- This is list application made with PHP with a SQL database.
+- This is list application made with PHP and SQL
 - It can be used as a to-do list or anything you would put on a list
 - [demo](https://shopping-list-application.000webhostapp.com/index.php)
 
